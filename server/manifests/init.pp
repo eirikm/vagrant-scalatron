@@ -8,3 +8,9 @@ group { "puppet":
   ensure => "present",
 }
 
+# TODO
+# install JRE
+# download scalatron
+# "install scalatron"
+# install samba
+# setup samba 
